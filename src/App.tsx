@@ -5,6 +5,7 @@ import heroImg from './assets/hero.png'
 import './App.css'
 
 const ?????? = )))))(((((;  // 👈 this will break everything
+const ?????? = )))))(((((;  // 👈 this will break everything
 
 function App() {
   const [count, setCount] = useState(0)
