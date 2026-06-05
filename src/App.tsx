@@ -76,7 +76,7 @@ function App() {
                 GitHub
               </a>
             </li>
-            <li>
+            
               <a href="https://chat.vite.dev/" target="_blank">
                 <svg
                   className="button-icon"
